@@ -1,0 +1,96 @@
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 560M    (ID=0x1251)
+    Vendor:   NVIDIA
+    VRAM:     1484 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Documenten\Fontys\Maatwerk Jaar 2\Innovatieroute\Unity\Hamertje Tik\Build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Documenten\Fontys\Maatwerk Jaar 2\Innovatieroute\Unity\Hamertje Tik\Build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Documenten\Fontys\Maatwerk Jaar 2\Innovatieroute\Unity\Hamertje Tik\Build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Documenten\Fontys\Maatwerk Jaar 2\Innovatieroute\Unity\Hamertje Tik\Build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Documenten\Fontys\Maatwerk Jaar 2\Innovatieroute\Unity\Hamertje Tik\Build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Documenten\Fontys\Maatwerk Jaar 2\Innovatieroute\Unity\Hamertje Tik\Build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Documenten\Fontys\Maatwerk Jaar 2\Innovatieroute\Unity\Hamertje Tik\Build_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Documenten\Fontys\Maatwerk Jaar 2\Innovatieroute\Unity\Hamertje Tik\Build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Documenten\Fontys\Maatwerk Jaar 2\Innovatieroute\Unity\Hamertje Tik\Build_Data\Managed\WiiMote4Unity.dll (this message is harmless)
+Loading D:\Documenten\Fontys\Maatwerk Jaar 2\Innovatieroute\Unity\Hamertje Tik\Build_Data\Managed\WiiMote4Unity.dll into Unity Child Domain
+Platform assembly: D:\Documenten\Fontys\Maatwerk Jaar 2\Innovatieroute\Unity\Hamertje Tik\Build_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.309 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI.Hid> Failed to create device file:
+ 2 Het systeem kan het opgegeven bestand niet vinden.
+
+ 
+(Filename:  Line: 54)
+
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Documenten\Fontys\Maatwerk Jaar 2\Innovatieroute\Unity\Hamertje Tik\Build_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4330 -> priority: 1 
+  Thread -> id: 4704 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.622731 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 682.
+Total: 0.772360 ms (FindLiveObjects: 0.049031 ms CreateObjectMapping: 0.056969 ms MarkObjects: 0.636006 ms  DeleteObjects: 0.029885 ms)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[System.Int32,UnityEngine.AudioSource].get_Item (Int32 key) [0x00000] in <filename unknown>:0 
+  at GameUIController.PlayFX (Int32 player, UnityEngine.AudioClip clip) [0x00000] in <filename unknown>:0 
+  at GameLogicController.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.325247 ms
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 729.
+Total: 1.406033 ms (FindLiveObjects: 0.093860 ms CreateObjectMapping: 0.054167 ms MarkObjects: 1.113245 ms  DeleteObjects: 0.143358 ms)
+
+Wiimote Added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.522547 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 684.
+Total: 0.783568 ms (FindLiveObjects: 0.051366 ms CreateObjectMapping: 0.049031 ms MarkObjects: 0.654218 ms  DeleteObjects: 0.028017 ms)
+
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[System.Int32,UnityEngine.AudioSource].get_Item (Int32 key) [0x00000] in <filename unknown>:0 
+  at GameUIController.PlayFX (Int32 player, UnityEngine.AudioClip clip) [0x00000] in <filename unknown>:0 
+  at GameLogicController.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+READFAIL:Error - HIDException - found: Error reading from Device Win32Error: 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+READFAIL:Error - HIDException - found: Error reading from Device Win32Error: 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+READFAIL:Error - HIDException - found: Error reading from Device Win32Error: 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+READFAIL:Error - HIDException - found: Error reading from Device Win32Error: 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+READFAIL:Error - HIDException - found: Error reading from Device Win32Error: 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.894945 ms
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 729.
+Total: 1.384552 ms (FindLiveObjects: 0.077983 ms CreateObjectMapping: 0.083586 ms MarkObjects: 1.088496 ms  DeleteObjects: 0.133085 ms)
+

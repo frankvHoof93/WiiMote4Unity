@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1c136e193926e4c42a6c05f103e05199
+timeCreated: 1447547639
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - hammerPrefab: {fileID: 155108, guid: 6477744aff45bac48ba29ab407ddbc71, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

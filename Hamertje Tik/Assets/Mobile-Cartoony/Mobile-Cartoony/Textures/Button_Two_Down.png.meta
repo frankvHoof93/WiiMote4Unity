@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: c31184d9321184194bc5b10ede9afeaa
+timeCreated: 1453436713
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Button_Two_Down_0
+    21300002: Button_Two_Down_1
+    21300004: Button_Two_Down_2
+    21300006: Button_Two_Down_3
+    21300008: Button_Two_Down_4
+    21300010: Button_Two_Down_5
+    21300012: Button_Two_Down_6
+    21300014: Button_Two_Down_7
+    21300016: Button_Two_Down_8
+    21300018: Button_Two_Down_9
+    21300020: Button_Two_Down_10
+    21300022: Button_Two_Down_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 22, y: 29, z: 23, w: 30}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Button_Two_Down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_Two_Down_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 75
+        width: 103
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_Two_Down_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 75
+        width: 93
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_Two_Down_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 75
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_Two_Down_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_Two_Down_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 51
+        width: 103
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_Two_Down_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 51
+        width: 93
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_Two_Down_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 51
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_Two_Down_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_Two_Down_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2
+        width: 103
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_Two_Down_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2
+        width: 93
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_Two_Down_11
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 2
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c2d2d97f0431cae4abb8f96fc50f16d6
+timeCreated: 1448937437
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - popupCanvasPrefab: {fileID: 116196, guid: 3434a63b14a554f4e9e8f3bb8fe66d8f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,36 @@
+Mono path[0] = 'D:/Documenten/Fontys/Maatwerk Jaar 2/Innovatieroute/Unity/Hamertje Tik/WiiMoteTest/test_Data/Managed'
+Mono path[1] = 'D:/Documenten/Fontys/Maatwerk Jaar 2/Innovatieroute/Unity/Hamertje Tik/WiiMoteTest/test_Data/Mono'
+Mono config path = 'D:/Documenten/Fontys/Maatwerk Jaar 2/Innovatieroute/Unity/Hamertje Tik/WiiMoteTest/test_Data/Mono/etc'
+PlayerConnection initialized from D:/Documenten/Fontys/Maatwerk Jaar 2/Innovatieroute/Unity/Hamertje Tik/WiiMoteTest/test_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55043
+Multi-casting "[IP] 192.168.2.3 [Port] 55043 [Flags] 3 [Guid] 829591501 [EditorId] 701942034 [Version] 1048832 [Id] WindowsPlayer(Frank-Alienware) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [192.168.2.3:55043]...
+Timed out. Continuing without host connection.
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56501
+PlayerConnection already initialized - listening to [192.168.2.3:55043]
+Initialize engine version: 5.2.0f3 (e7947df39b5c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 560M    (ID=0x1251)
+    Vendor:   NVIDIA
+    VRAM:     1489 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Documenten\Fontys\Maatwerk Jaar 2\Innovatieroute\Unity\Hamertje Tik\WiiMoteTest\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Documenten\Fontys\Maatwerk Jaar 2\Innovatieroute\Unity\Hamertje Tik\WiiMoteTest\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Documenten\Fontys\Maatwerk Jaar 2\Innovatieroute\Unity\Hamertje Tik\WiiMoteTest\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Documenten\Fontys\Maatwerk Jaar 2\Innovatieroute\Unity\Hamertje Tik\WiiMoteTest\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Documenten\Fontys\Maatwerk Jaar 2\Innovatieroute\Unity\Hamertje Tik\WiiMoteTest\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Documenten\Fontys\Maatwerk Jaar 2\Innovatieroute\Unity\Hamertje Tik\WiiMoteTest\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Documenten\Fontys\Maatwerk Jaar 2\Innovatieroute\Unity\Hamertje Tik\WiiMoteTest\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Documenten\Fontys\Maatwerk Jaar 2\Innovatieroute\Unity\Hamertje Tik\WiiMoteTest\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Documenten\Fontys\Maatwerk Jaar 2\Innovatieroute\Unity\Hamertje Tik\WiiMoteTest\test_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.384 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Documenten\Fontys\Maatwerk Jaar 2\Innovatieroute\Unity\Hamertje Tik\WiiMoteTest\test_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 878 -> priority: 1 
+  Thread -> id: 2840 -> priority: 1 

@@ -1,0 +1,12 @@
+C:\Users\Frank\Documents\Visual Studio 2013\Projects\WiiMoteOwnLib\WiiMoteOwnLib\bin\Debug\WiiMoteOwnLib.exe.config
+C:\Users\Frank\Documents\Visual Studio 2013\Projects\WiiMoteOwnLib\WiiMoteOwnLib\obj\Debug\WiiMoteOwnLib.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Documents\Visual Studio 2013\Projects\WiiMoteOwnLib\WiiMoteOwnLib\obj\Debug\WiiMoteOwnLib.Form1.resources
+C:\Users\Frank\Documents\Visual Studio 2013\Projects\WiiMoteOwnLib\WiiMoteOwnLib\obj\Debug\WiiMoteOwnLib.Properties.Resources.resources
+C:\Users\Frank\Documents\Visual Studio 2013\Projects\WiiMoteOwnLib\WiiMoteOwnLib\obj\Debug\WiiMoteOwnLib.csproj.GenerateResource.Cache
+C:\Users\Frank\Documents\Visual Studio 2013\Projects\WiiMoteOwnLib\WiiMoteOwnLib\bin\Debug\WiiMoteOwnLib.exe
+C:\Users\Frank\Documents\Visual Studio 2013\Projects\WiiMoteOwnLib\WiiMoteOwnLib\bin\Debug\WiiMoteOwnLib.pdb
+C:\Users\Frank\Documents\Visual Studio 2013\Projects\WiiMoteOwnLib\WiiMoteOwnLib\obj\Debug\WiiMoteOwnLib.exe
+C:\Users\Frank\Documents\Visual Studio 2013\Projects\WiiMoteOwnLib\WiiMoteOwnLib\obj\Debug\WiiMoteOwnLib.pdb
+D:\Documenten\Fontys\Maatwerk Jaar 2\Innovatieroute\Unity\WiiMoteOwnLib\WiiMoteOwnLib\bin\Debug\WiiMoteOwnLib.exe.config
+D:\Documenten\Fontys\Maatwerk Jaar 2\Innovatieroute\Unity\WiiMoteOwnLib\WiiMoteOwnLib\obj\Debug\WiiMoteOwnLib.exe
+D:\Documenten\Fontys\Maatwerk Jaar 2\Innovatieroute\Unity\WiiMoteOwnLib\WiiMoteOwnLib\obj\Debug\WiiMoteOwnLib.pdb
